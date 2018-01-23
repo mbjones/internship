@@ -10,7 +10,7 @@ Information regarding 2018 internship
 
 ## Schedule
 - Noah and Matt will meet on Mondays, Tuesdays and Wednesdays from ~13:00 to ~17:00, holidays not withstanding, from January 23 2018 to May 16 2018.
-- In-person scedule may vary, dependant on responsibilities and workload of both Noah and Matt.
+- In-person schedule may vary, dependent on responsibilities and workload of both Noah and Matt.
 
 ## Responsibilities
 - Noah will work ≥ 10 hrs per week on projects for internship.
